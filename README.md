@@ -1,13 +1,14 @@
 # Token Apsara
 
-i have created an ERC20 token withetherium blockchain,with the name apsara and the 3 function 
+I have created an ERC20 token with Ethereum blockchain,with the name apsara and the 3 function 
 ## Description
 
-the ERC20 token named apsara has also been given a symbol called'APS' 
-Functions are:
-mint tokens
-burn tokens
-transfer tokens
+
+The ERC20 token is named Apsara and given the sybmol as 'APS'
+Functions used in this program are:
+ function mint
+ function burn
+ function burn
 
 
 ## Getting Started
